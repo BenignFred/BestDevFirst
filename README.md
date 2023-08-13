@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I am a full-stack developer with 6 years of experience in backend and frontend development.
+I am a creative, sophisticated, dedicated and ambitious engineer with creative and efficient solutions for large websites.
+As a professional problem solver, we have a proven track record of responding quickly to customer needs, paying attention to detail, and consistently delivering high levels of customer satisfaction.
+I am very quick to pick up new skills and am always looking for new solutions, new challenges and new experiences.
 <!--
 **BestDevFirst/BestDevFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
