@@ -1,12 +1,9 @@
 ## 🚀 About Me
 
-I am a Full Stack Engineer with 5 years of experience.
-
-I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others.
-
-I am really enthusiastic on learning new technology and never afraid of challenging new problems.
-
-In my free time, I enjoy reading books and play **soccer** with my friends.
+I am a full-stack developer with 6 years of experience in backend and frontend development.
+I am a creative, sophisticated, dedicated and ambitious engineer with creative and efficient solutions for large websites.
+As a professional problem solver, we have a proven track record of responding quickly to customer needs, paying attention to detail, and consistently delivering high levels of customer satisfaction.
+I am very quick to pick up new skills and am always looking for new solutions, new challenges and new experiences.
 
 ## 🛠️Skills:
 
