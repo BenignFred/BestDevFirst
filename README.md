@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! I am a full-stack developer with 6 years of experience in backend and frontend development.<br>I am a creative, sophisticated, dedicated and ambitious engineer with creative and efficient solutions for large websites.<br>As a professional problem solver, we have a proven track record of responding quickly to customer needs, paying attention to detail, and consistently delivering high levels of customer satisfaction.<br>I am very quick to pick up new skills and am always looking for new solutions, new challenges and new experiences.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BestDevFirst&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BestDevFirst&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 
 ###
@@ -70,5 +61,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/BestDevFirst/BestDevFirst/output/snake.svg" alt="Snake animation" />
