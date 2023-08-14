@@ -7,6 +7,8 @@ I am very quick to pick up new skills and am always looking for new solutions, n
 
 ## 🛠️Skills:
 
+<img align="right" height="150" width="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
 ### Languages:
 
 <p align="left">
